@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DBSCAN"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="draw_bounding_box">
+				<Option output="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/draw_bounding_box" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/x86_64-apple-darwin18.5.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 draw_bounding_box"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="draw_bounding_box/fast">
+				<Option output="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/draw_bounding_box" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/x86_64-apple-darwin18.5.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 draw_bounding_box/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DBSCAN">
+				<Option output="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/DBSCAN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/x86_64-apple-darwin18.5.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 DBSCAN"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DBSCAN/fast">
+				<Option output="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/DBSCAN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/x86_64-apple-darwin18.5.0"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/../../../../../../include/c++/7.4.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc@7/7.4.0_2/lib/gcc/7/gcc/x86_64-apple-darwin18.5.0/7.4.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 DBSCAN/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wenjun/Codes/ecarx/DBSCAN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/dbscan.cpp">
+			<Option target="DBSCAN"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/dbscan.h">
+			<Option target="DBSCAN"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/draw_bounding_box.cpp">
+			<Option target="draw_bounding_box"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/main.cpp">
+			<Option target="DBSCAN"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/wenjun/Codes/ecarx/DBSCAN/../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
